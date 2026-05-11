@@ -10,4 +10,4 @@ The pretrained model weights for four datasets are available at:
 |---|---|
 | CIA | [Download]() |
 | LGC | [Download]() |
-| AHB | [Download]() |
+| AHB | [Download](https://drive.google.com/file/d/1Vu0mU3nivZJ3L7abhpbgFe4KtXnA-uqh/view?usp=sharing) |
