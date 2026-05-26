@@ -25,7 +25,7 @@ If you find this work useful for your research, please consider citing our paper
 ```bibtex
 @inproceedings{zhang2026sastf,
   title={Semantic-Adaptive Diffusion for Dynamic Spatiotemporal Fusion},
-  author={Zhang, Jinsong and others},
+  author={Zhang, Jinsong and Qu, Ying and others},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2026}
 }
